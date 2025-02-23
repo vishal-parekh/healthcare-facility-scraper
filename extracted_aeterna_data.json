@@ -1,0 +1,122 @@
+{
+    "https://www.aeterna-aesthetics.com/services/facials": [
+        {
+            "service_name": "Acne + Oil",
+            "service_description": "ZO Skin Health acne products are highly effective treatments formulated to treat acne-prone skin and prevent future breakouts. This Acne + Oil Control Treatment helps to clear skin and prevent breakouts.",
+            "service_price": "$135",
+            "error": false
+        },
+        {
+            "service_name": "Anti-Aging",
+            "service_description": "ZO products are specifically designed to be the best skin care for aging skin by addressing both the visible signs and key triggers of aging at every phase. Hydrate and strengthen skins structural integrity to support the visible improvement in elasticity and firmness.",
+            "service_price": "$135",
+            "error": false
+        },
+        {
+            "service_name": "Skin Brightening",
+            "service_description": "This relaxing Zo Skin Brightening Treatment targets pigment-related issues to help address dark patches and uneven skin tone, leaving your skin feeling fresh and radiant.",
+            "service_price": "$135",
+            "error": false
+        },
+        {
+            "service_name": "Ultra-Hydrating",
+            "service_description": "This ZO hydrating facial is the perfect rejuvenation treatment with a mild peel designed to soothe skin and restore hydration in weak, dry, and dehydrated skin.",
+            "service_price": "$135",
+            "error": false
+        },
+        {
+            "service_name": "Custom Facial Package",
+            "service_description": "Maximize your skincare results with Aeterna's Custom Facial Package\u2014select any combination of the three (3) ZO facials listed above, and perfectly tailor your treatment to your skin\u2019s needs. Enjoy flexibility and savings while addressing a variety of skin concerns like aging, hydration, clarity, and radiance. Book your personalized package today and embark on your journey to flawless skin. Choose any three (3) ZO Facials for $359.",
+            "service_price": "$359",
+            "error": false
+        },
+        {
+            "service_name": "DiamondGlow",
+            "service_description": "Aeterna's premiere facial. Experience the DiamondGlow, a next-level, non-invasive skin-resurfacing treatment, designed to work with SkinMedica advanced skincare products. Together, they deliver radiant, healthy-looking skin. This 3-in-1 treatment exfoliates, extracts, and infuses a serum based on your skin analysis. The DiamondGlow facial will help to improve texture, dark spots, fine lines and wrinkles, and dryness.",
+            "service_price": "$225",
+            "error": false
+        },
+        {
+            "service_name": "Glow on the Go",
+            "service_description": "Our Express Facial is designed for busy individuals seeking radiant skin in no time. In just 30 minutes, enjoy a thorough cleanse, gentle exfoliation, and a hydrating mask that leaves your skin refreshed and revitalized. Perfect for a lunchtime treat or a quick pick-me-up, our Express Facial provides instant rejuvenation without compromising on quality.",
+            "service_price": "$85",
+            "error": false
+        },
+        {
+            "service_name": "Maternity Facial",
+            "service_description": "Pamper yourself during this special time with our Maternity Facial, specifically designed for expectant mothers. This gentle, soothing treatment addresses common skin concerns during pregnancy, such as sensitivity and dehydration. Utilizing safe, pregnancy-friendly products, our facial includes a delicate cleanse, calming mask, and hydrating treatment to leave your skin glowing and refreshed.",
+            "service_price": "$135",
+            "error": false
+        }
+    ],
+    "https://www.aeterna-aesthetics.com/services/injections": [
+        {
+            "service_name": "IV Therapy & Injections",
+            "service_description": "Boost your body's recovery and overall health with our cutting-edge red light therapy and I.V. vitamin injections, designed for optimal wellness and energy.",
+            "service_price": null,
+            "error": false
+        },
+        {
+            "service_name": "Weight Loss",
+            "service_description": "Boost your weight loss transformation with the help of our tailored semaglutide programs that help you achieve and maintain your ideal weight.",
+            "service_price": null,
+            "error": false
+        },
+        {
+            "service_name": "Facials",
+            "service_description": "Explore our luxurious facial treatments, expertly designed to hydrate, purify, and enhance your complexion, making us the top choice for skincare excellence.",
+            "service_price": null,
+            "error": false
+        },
+        {
+            "service_name": "Skin Rejuvenation",
+            "service_description": "Unlock fresher, younger-looking skin with our specialized chemical peels and microneedling treatments. Diminish scars, wrinkles, and signs of aging.",
+            "service_price": null,
+            "error": false
+        },
+        {
+            "service_name": "Anti-Aging",
+            "service_description": "Experience youthful, smoother skin with our professional Botox injections\u2014perfect for reducing wrinkles and fine lines in a serene, expert setting.",
+            "service_price": null,
+            "error": false
+        }
+    ],
+    "https://www.aeterna-aesthetics.com/services/contouring": [
+        {
+            "service_name": "IV Therapy & Injections",
+            "service_description": "Boost your body's recovery and overall health with our cutting-edge red light therapy and I.V. vitamin injections, designed for optimal wellness and energy.",
+            "service_price": null,
+            "error": false
+        },
+        {
+            "service_name": "Weight Loss",
+            "service_description": "Boost your weight loss transformation with the help of our tailored semaglutide programs that help you achieve and maintain your ideal weight.",
+            "service_price": null,
+            "error": false
+        },
+        {
+            "service_name": "Packages",
+            "service_description": "Treat yourself to the ultimate beauty experience with our exclusive packages, offering our most popular treatments for relaxation and rejuvenation.",
+            "service_price": null,
+            "error": false
+        },
+        {
+            "service_name": "Facials",
+            "service_description": "Explore our luxurious facial treatments, expertly designed to hydrate, purify, and enhance your complexion, making us the top choice for skincare excellence.",
+            "service_price": null,
+            "error": false
+        },
+        {
+            "service_name": "Skin Rejuvenation",
+            "service_description": "Unlock fresher, younger-looking skin with our specialized chemical peels and microneedling treatments. Diminish scars, wrinkles, and signs of aging.",
+            "service_price": null,
+            "error": false
+        },
+        {
+            "service_name": "Anti-Aging",
+            "service_description": "Experience youthful, smoother skin with our professional Botox injections\u2014perfect for reducing wrinkles and fine lines in a serene, expert setting.",
+            "service_price": null,
+            "error": false
+        }
+    ]
+}
